@@ -24,6 +24,7 @@ export default defineConfig({
   sitemap: {
     hostname: 'https://xx.theojs.cn'
   },
+base:'/x/',
 
   // vue配置
   vue: {
